@@ -1,0 +1,47 @@
+h2 {
+    margin: 0;
+    padding: 1rem;
+    font-size: 3rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    justify-content: center;
+    display: flex;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.exercises {
+    color: white;
+    justify-content: center;
+    padding: 1rem;
+    font-size: 25px;
+}
+
+.post {
+    justify-content: center;
+    padding: 1rem 0;
+    gap: 1rem;
+    font-size: 1.5rem;
+}
+
+.update {
+    margin: 1rem;
+    display: inline;
+    justify-content: center;
+}
+
+.new-post {
+    margin: 1rem;
+    justify-content: center;
+}
+.userContainer {
+    display: flex;
+    margin: 2em 0;
+    border: 5px solid #777;
+    padding: 0;
+    gap: 2rem;
+}
